@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com) , [JakaSoft](https://www.jakasoft.com) , [JakaHost](https://www.jakahost.com)
 
-- 🌱 I’m currently learning **C, C++, Java, JavaScript, PHP, Python, R, C#, React.js, Exprees.js, Node.js, and MongDB.**
+- 🌱 I’m currently learning **C, C++, Java, JavaScript, PHP, Python, C#, TypeScript, React.js, Exprees.js, Node.js, and MongDB.**
 
 - 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com) , [JakaSoft](https://www.jakasoft.com) , [JakaHost](https://www.jakahost.com)
 
@@ -43,8 +43,6 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
-
-  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjakarianur&show_icons=true&locale=en&layout=compact" alt="mdjakarianur" /></p>
