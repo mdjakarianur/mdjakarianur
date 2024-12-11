@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com) , [JakaSoft](https://www.jakasoft.com) , [JakaHost](https://www.jakahost.com)
 
-- 🌱 I’m currently learning **C, C++, Java, JavaScript, PHP, Python, C#, TypeScript, React.js, Node.js, Exprees.js, and MongDB.**
+- 🌱 I’m currently learning **C, C++, C#, Java, PHP, Python, JavaScript, TypeScript, React.js, Node.js, Exprees.js, and MongDB.**
 
 - 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com) , [JakaSoft](https://www.jakasoft.com) , [JakaHost](https://www.jakahost.com)
 
