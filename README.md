@@ -1,5 +1,5 @@
 <h1 align="center">Md Jakaria Nur</h1>
-<h3 align="center">Software Engineer at JakaSoft</h3>
+<h3 align="center">Chief Executive Officer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjakarianur&label=Profile%20views&color=0e75b6&style=flat" alt="mdjakarianur"/> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjakarianur&show_icons=true&locale=en&layout=compact" alt="mdjakarianur"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
