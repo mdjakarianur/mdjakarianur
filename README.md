@@ -1,5 +1,5 @@
 <h1 align="center">Md Jakaria Nur</h1>
-<h3 align="center">Corporate Entrepreneur, Software Developer, Cybersecurity Specialist, Digital Marketer, Graphics Designer, Data Entry Expert, Content Video Editor</h3>
+<h3 align="center">Corporate Entrepreneur, Digital Marketer, Software Developer, Graphics Designer, Creative Video Editor, Data Entry Expert, Cybersecurity Specialist</h3>
 <h5 align="center">Md Jakaria Nur is a Software Engineering student at Daffodil International University and the founder of JakaSoft, a fast-growing software startup. With a deep passion for technology, robotics, and business, he is on a mission to create innovative software solutions that make an impact.</h5>
 <h5 align="center">With a vision to revolutionize the tech industry, Md Jakaria Nur is dedicated to continuous learning, innovation, and entrepreneurship</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjakarianur&label=Profile%20views&color=0e75b6&style=flat" alt="mdjakarianur"/> </p>
@@ -7,13 +7,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjakarianur" alt="mdjakarianur" /></a> </p>
 
-- 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com) , [Mst Tasnim Nur](https://www.msttasnimnur.com) , [JakaSoft](https://www.jakasoft.com) , [JakaTech](https://www.jakatech.com) , [JakaFind](https://www.jakafind.com) , [JakaHost](https://www.jakahost.com)
+- 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com) , [JakaRiaz Group](https://www.group.jakariaz.com) , [JakaSoft](https://www.jakasoft.com) , [JakaTech](https://www.jakatech.com) , [JakaFind](https://www.jakafind.com) , [JakaHost](https://www.jakahost.com)
 
 - 🌱 I’m currently learning **React.js, Node.js, Exprees.js, and MongDB, JavaScript, TypeScript, PHP, Python, HTML, CSS, Tailwind, SQL, Java, C, C++, C#.**
 
-- 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com) , [Mst Tasnim Nur](https://www.msttasnimnur.com) , [JakaSoft](https://www.jakasoft.com) , [JakaTech](https://www.jakatech.com) , [JakaFind](https://www.jakafind.com) , [JakaHost](https://www.jakahost.com)
+- 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com) , [JakaRiaz Group](https://www.group.jakariaz.com) , [JakaSoft](https://www.jakasoft.com) , [JakaTech](https://www.jakatech.com) , [JakaFind](https://www.jakafind.com) , [JakaHost](https://www.jakahost.com)
 
-- 📝 I regularly write articles on Programming at [Md Jakaria Nur Blogsite](https://www.site.mdjakarianur.com) , [Mst Tasnim Nur Blogsite](https://www.site.msttasnimnur.com) , [JakaSoft Blogsite](https://www.site.jakasoft.com) , [JakaTech Blogsite](https://www.site.jakatech.com) , [JakaFind Blogsite](https://www.site.jakafind.com) , [JakaHost Blogsite](https://www.site.jakahost.com)
+- 📝 I regularly write articles on Programming at [Md Jakaria Nur Blogsite](https://www.site.mdjakarianur.com) , [JakaRiaz Group Blogsite](https://www.site.group.jakariaz.com) , [JakaSoft Blogsite](https://www.site.jakasoft.com) , [JakaTech Blogsite](https://www.site.jakatech.com) , [JakaFind Blogsite](https://www.site.jakafind.com) , [JakaHost Blogsite](https://www.site.jakahost.com)
 
 - 📫 How to reach me **info@mdjakarianur.com** 
 
