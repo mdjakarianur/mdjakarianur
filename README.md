@@ -1,6 +1,6 @@
 <h1 align="center">Md Jakaria Nur</h1>
 <h3 align="center">Founder & CEO of JakaSoft</h3>
-<h5 align="center">Md Jakaria Nur is the founder of JakaSoft, a fast-growing software startup. With a deep passion for technology, robotics, and business, he is on a mission to create innovative software solutions that make an impact.</h5>
+<h5 align="center">Md Jakaria Nur is the founder & CEO of JakaSoft, a fast-growing software startup. With a deep passion for technology, robotics, and business, he is on a mission to create innovative software solutions that make an impact.</h5>
 <h5 align="center">With a vision to revolutionize the tech industry, Md Jakaria Nur is dedicated to continuous learning, innovation, and entrepreneurship</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjakarianur&label=Profile%20views&color=0e75b6&style=flat" alt="mdjakarianur"/> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjakarianur&show_icons=true&locale=en&layout=compact" alt="mdjakarianur"/></p>
