@@ -6,14 +6,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjakarianur" alt="mdjakarianur" /></a> </p>
 
-- 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com) , [JakaRiaz Group](https://www.group.jakariaz.com) , [JakaSoft](https://www.jakasoft.com) , [JakaTech](https://www.jakatech.com) , [JakaFind](https://www.jakafind.com) , [JakaHost](https://www.jakahost.com)
+- 🌱 I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, HTML, CSS, Tailwind, SQL, C.**
 
-- 🌱 I’m currently learning **React.js, Node.js, Exprees.js, and MongDB, JavaScript, TypeScript, PHP, Python, HTML, CSS, Tailwind, SQL, Java, C, C++, C#.**
+- 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com)
 
-- 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com) , [JakaRiaz Group](https://www.group.jakariaz.com) , [JakaSoft](https://www.jakasoft.com) , [JakaTech](https://www.jakatech.com) , [JakaFind](https://www.jakafind.com) , [JakaHost](https://www.jakahost.com)
+- 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com)
 
-- 📝 I regularly write articles on Programming at [Md Jakaria Nur Blogsite](https://www.site.mdjakarianur.com) , [JakaRiaz Group Blogsite](https://www.site.group.jakariaz.com) , [JakaSoft Blogsite](https://www.site.jakasoft.com) , [JakaTech Blogsite](https://www.site.jakatech.com) , [JakaFind Blogsite](https://www.site.jakafind.com) , [JakaHost Blogsite](https://www.site.jakahost.com)
-
+- 📝 I regularly write articles on Programming at [Md Jakaria Nur Site](https://www.site.mdjakarianur.com)
 - 📫 How to reach me **info@mdjakarianur.com** 
 
 <h3 align="left">Connect with me:</h3>
