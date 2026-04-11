@@ -1,6 +1,6 @@
 <h1 align="center">Md Jakaria Nur</h1>
 <h3 align="center">Software Engineering Student</h3>
-<h5 align="center">This is Md. Jakaria Nur. I am a software engineering student at Daffodil International University in the Department of Software Engineering.</h5>
+<h5 align="center">This is Md. Jakaria Nur. I am a software engineering student at Daffodil International University in the Department of Software Engineering. <br> I love technology and enjoy learning programming and problem-solving.</h5>
 <h5 align="center">I love technology and enjoy learning programming and problem-solving.</h5>
 <h5 align="center">I am building my skills in software development and want to become a professional in the tech industry by creating useful and user-friendly software.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjakarianur&label=Profile%20views&color=0e75b6&style=flat" alt="mdjakarianur"/> </p>
