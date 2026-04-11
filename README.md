@@ -2,7 +2,8 @@
 <h3 align="center">Founder & CEO of JakaSoft</h3>
 <h5 align="center">This is Md. Jakaria Nur. I am a software engineering student at Daffodil International University in the Department of Software Engineering.
 I love technology and enjoy learning programming and problem-solving.</h5>
-<h5 align="center">With a vision to revolutionize the tech industry, Md Jakaria Nur is dedicated to continuous learning, innovation, and entrepreneurship</h5>
+<h5 align="center">I love technology and enjoy learning programming and problem-solving.</h5>
+<h5 align="center">I am building my skills in software development and want to become a professional in the tech industry by creating useful and user-friendly software.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjakarianur&label=Profile%20views&color=0e75b6&style=flat" alt="mdjakarianur"/> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjakarianur&show_icons=true&locale=en&layout=compact" alt="mdjakarianur"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
