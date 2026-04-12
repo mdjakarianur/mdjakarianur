@@ -6,7 +6,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjakarianur" alt="mdjakarianur" /></a> </p>
 
-<h3 align="left">📊 Most Used Languages (Detailed)</h3>
+- 🌱 I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, HTML, CSS, Tailwind, SQL, C.**
+
+- <h3 align="left">📊 Most Used Languages (Detailed)</h3>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjakarianur&theme=tokyonight" />
 </p>
@@ -15,7 +17,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjakarianur&theme=tokyonight" />
 </p>
 
-- 🌱 I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, HTML, CSS, Tailwind, SQL, C.**
 
 - 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com)
 
