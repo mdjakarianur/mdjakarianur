@@ -9,7 +9,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjakarianur&theme=tokyonight" />
 </p>
 
-- 🌱 I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, HTML, CSS, Tailwind, SQL, C.**
+- 🌱 I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, Tailwind, SQL.**
 
 - 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com)
 
