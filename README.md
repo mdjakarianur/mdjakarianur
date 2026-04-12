@@ -37,19 +37,11 @@ I am building my skills in software development and want to become a professiona
 
 ---
 
-## 📊 Most Used Languages
-
-### 📈 Language Stats (Ranking + Percentage)
+## Most Used Languages
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjakarianur&theme=tokyonight" />
 </p>
 
-### 🧠 Commit Based Language Usage
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjakarianur&theme=tokyonight" />
-</p>
-
-### 🥧 Pie Chart View (Modern)
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjakarianur&layout=pie" />
 </p>
