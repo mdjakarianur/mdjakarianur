@@ -4,12 +4,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
 
-- I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, HTML, CSS, Tailwind, SQL, C.**
-
 - <h3 align="left">Most Used Languages</h3>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjakarianur&theme=tokyonight" />
 </p>
+
+- 🌱 I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, HTML, CSS, Tailwind, SQL, C.**
 
 - 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com)
 
