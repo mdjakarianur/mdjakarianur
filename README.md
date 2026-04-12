@@ -1,22 +1,17 @@
 <h1 align="center">Md Jakaria Nur</h1>
 <h3 align="center">Software Engineering Student</h3>
 <h5 align="center">This is Md. Jakaria Nur. I am a software engineering student at Daffodil International University in the Department of Software Engineering. <br> I love technology and enjoy learning programming and problem-solving. <br> I am building my skills in software development and want to become a professional in the tech industry by creating useful and user-friendly software.</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjakarianur&label=Profile%20views&color=0e75b6&style=flat" alt="mdjakarianur"/> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjakarianur&show_icons=true&locale=en&layout=compact" alt="mdjakarianur"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjakarianur" alt="mdjakarianur" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, HTML, CSS, Tailwind, SQL, C.**
 
-- <h3 align="left">📊 Most Used Languages (Detailed)</h3>
+- <h3 align="left">Most Used Languages</h3>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjakarianur&theme=tokyonight" />
 </p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjakarianur&theme=tokyonight" />
-</p>
-
 
 - 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com)
 
