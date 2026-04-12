@@ -4,7 +4,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjakarianur&show_icons=true&locale=en&layout=compact" alt="mdjakarianur"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjakarianur" alt="mdjakarianur" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Java, JavaScript, Python, PHP, C#, React.js, Node.js, Exprees.js, MongDB, HTML, CSS, Tailwind, SQL, C.**
 
@@ -55,4 +54,3 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjakarianur&show_icons=true&locale=en" alt="mdjakarianur" /></p>
