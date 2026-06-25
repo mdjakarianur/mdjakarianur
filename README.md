@@ -1,8 +1,7 @@
 <h1 align="center">Md Jakaria Nur</h1>
 <h3 align="center">Founder & CEO JakaRiaz Group</h3>
-<h6 align="center">This is Md. Jakaria Nur. I have founded Jakariaz Group, including Jakariaz Innovative Company and Jakariaz Agro Farm, with the goal of building something meaningful for the future.  <br> I love technology and enjoy learning programming and problem-solving.
-I am building my skills in software development and want to become a professional in the tech industry by creating useful and user-friendly software.<br> I am a Software Engineering student at Daffodil International University, Department of Software Engineering.
-I also study Islamic Studies (Honors) at Uttara University and try to follow Islam in my daily life according to its values and teachings.</h6>
+<h6 align="center">This is Md. Jakaria Nur. <br> I have founded Jakariaz Group, including Jakariaz Innovative Company and Jakariaz Agro Farm, with the goal of building something meaningful for the future. <br>I love technology and enjoy learning programming and problem-solving.
+I am building my skills in software development and want to become a professional in the tech industry by creating useful and user-friendly software. <br> I am a Software Engineering student at Daffodil International University, Department of Software Engineering. <br> I also study Islamic Studies (Honors) at Uttara University and try to follow Islam in my daily life according to its values and teachings.</h6>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
 
