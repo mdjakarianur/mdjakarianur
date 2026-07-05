@@ -1,6 +1,8 @@
 <h1 align="center">Md Jakaria Nur</h1>
 <h3 align="center">Software Designer at JakaRiaz</h3>
-<h6 align="center">This is Md. Jakaria Nur. <br> I have founded Jakariaz Group & JakaRiaz Foundation, including Jakariaz Innovative Company & Jakariaz Agro Farm, with the goal of building something meaningful for the future. <br> I love technology and enjoy learning programming and problem-solving. <br> I am building my skills in software development and want to become a professional in the tech industry by creating useful and user-friendly software. <br> I am a Software Engineering student at Daffodil International University, Department of Software Engineering. <br> I also study Islamic Studies (Honors) at Uttara University and try to follow Islam in my daily life according to its values and teachings.</h6>
+<h6 align="center">This is Md Jakaria Nur, Software Designer at JakaRiaz, a leading software development company based in Dhaka, Bangladesh.
+With over six years of experience in the industry, I specialize in crafting innovative software solutions that drive business growth and efficiency. <br> Our team at JakaRiaz is dedicated to delivering high-quality, customized applications tailored to meet the unique needs of our clients.<br> We focus on understanding specific requirements to deliver robust, scalable, and user-friendly applications. <br> Our expertise spans various technologies, including Laravel, WordPress, and the MERN stack.
+Whether you're looking for a mobile app, web-based platform, or enterprise software, we are committed to transforming your ideas into reality. </h6>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
 
@@ -25,8 +27,7 @@
 <a href="https://linkedin.com/in/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjakarianur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdjakarianur" height="30" width="40" /></a>
 <a href="https://instagram.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdjakarianur" height="30" width="40" /></a>
-<a href="https://twitter.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdjakarianur" height="30" width="40" /></a>
-
+<a href="https://threads.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="mdjakarianur" height="30" width="40" /></a>
 <a href="https://github.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mdjakarianurs" height="30" width="40" /></a>
 
 </p>
