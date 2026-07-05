@@ -1,7 +1,7 @@
 <h1 align="left">Md Jakaria Nur</h1>
 <h3 align="left">Software Designer at JakaRiaz</h3>
 <h6 align="left">This is Md Jakaria Nur, Software Designer at JakaRiaz, a leading software development company based in Dhaka, Bangladesh. <br> With over six years of experience in the industry, I specialize in crafting innovative software solutions that drive business growth and efficiency. <br> Our team at JakaRiaz is dedicated to delivering high-quality, customized applications tailored to meet the unique needs of our clients. <br><br> We focus on understanding specific requirements to deliver robust, scalable, and user-friendly applications. <br> Our expertise spans various technologies, including Laravel, WordPress, and the MERN stack.
-Whether you're looking for a mobile app, web-based platform, or enterprise software, we are committed to transforming your ideas into reality. </h6>
+Whether you're looking for a mobile app, web-based platform, or enterprise software, we are committed to transforming your ideas into reality. <br></h6>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
 
