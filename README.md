@@ -12,7 +12,7 @@ Whether you're looking for a mobile app, web-based platform, or enterprise softw
 
 - 🌱 I’m currently learning **JavaScript, PHP, Python, Java, C++, C#, React.js, Node.js, Exprees.js, MongDB, Tailwind, SQL.**
 
-- 🔭 I’m currently working on [Md Jakaria Nur](https://www.mdjakarianur.com)
+- 🔭 I’m currently working at [JakaRiaz](https://www.jakariaz.com)
 
 - 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com)
 
