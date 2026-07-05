@@ -17,7 +17,7 @@ Whether you're looking for a mobile app, web-based platform, or enterprise softw
 
 - 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com)
 
-- 📝 I regularly write articles on Programming at [Md Jakaria Nur Site](https://www.site.mdjakarianur.com)
+- 📝 I regularly write articles on Programming at [Md Jakaria Nur Site](https://www.site.mdjakarianur.com/?s)
 - 📫 How to reach me **info@mdjakarianur.com** 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +27,6 @@ Whether you're looking for a mobile app, web-based platform, or enterprise softw
 <a href="https://linkedin.com/in/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjakarianur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdjakarianur" height="30" width="40" /></a>
 <a href="https://instagram.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdjakarianur" height="30" width="40" /></a>
-<a href="https://threads.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="mdjakarianur" height="30" width="40" /></a>
 <a href="https://github.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mdjakarianurs" height="30" width="40" /></a>
 
 </p>
