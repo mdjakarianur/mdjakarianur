@@ -1,6 +1,6 @@
 <h1 align="left">Md Jakaria Nur</h1>
-<h3 align="left">Founder & CEO of JakaRiaz</h3>
-<h6 align="left">This is Md Jakaria Nur, Founder & CEO of JakaRiaz, a leading software development company based in Dhaka, Bangladesh. <br> With over six years of experience in the industry, I specialize in crafting innovative software solutions that drive business growth and efficiency. <br> Our team at JakaRiaz is dedicated to delivering high-quality, customized applications tailored to meet the unique needs of our clients. <br><br> We focus on understanding specific requirements to deliver robust, scalable, and user-friendly applications. <br> Our expertise spans various technologies, including Laravel, WordPress, and the MERN stack.
+<h3 align="left">Founder & CEO of JakaSoft</h3>
+<h6 align="left">This is Md Jakaria Nur, Founder & CEO of JakaSoft, a leading software development company based in Dhaka, Bangladesh. <br> With over six years of experience in the industry, I specialize in crafting innovative software solutions that drive business growth and efficiency. <br> Our team at JakaSoft is dedicated to delivering high-quality, customized applications tailored to meet the unique needs of our clients. <br><br> We focus on understanding specific requirements to deliver robust, scalable, and user-friendly applications. <br> Our expertise spans various technologies, including Laravel, WordPress, and the MERN stack.
 Whether you're looking for a mobile app, web-based platform, or enterprise software, we are committed to transforming your ideas into reality. <br> </h6>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
@@ -12,12 +12,12 @@ Whether you're looking for a mobile app, web-based platform, or enterprise softw
 
 - 🌱 I’m currently learning **Next.js, React.js, Node.js, Exprees.js, MongDB, Tailwind, JavaScript, PHP, Python, Java, SQL.**
 
-- 🔭 I’m currently working at [JakaRiaz](https://www.jakariaz.com)
+- 🔭 I’m currently working at [JakaSoft](https://www.jakasoft.com), and [JakaBase](https://www.jakabase.com)
 
 - 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.mdjakarianur.com)
 
 - 📝 I regularly write articles on Programming at [Md Jakaria Nur Site](https://www.site.mdjakarianur.com/?s)
-- 📫 How to reach me **info@mdjakarianur.com** 
+- 📫 How to reach me **info.mdjakarianur@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
